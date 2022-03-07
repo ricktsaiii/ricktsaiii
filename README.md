@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricktsaiii&label=Profile%20views&color=0e75b6&style=flat" alt="ricktsaiii" /> </p>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricktsaiii&theme=dracula)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ricktsaiii&theme=dracula)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ricktsaiii&theme=dracula)
 
 <h3 align="left">Connect with me:</h3>
